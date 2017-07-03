@@ -1,0 +1,10 @@
+com\teksystem\filereader\core\XlsFileReader$1.class
+com\teksystem\common_utilities\App.class
+com\teksystem\filereader\core\AbstractFileReader.class
+com\teksystem\filereaderutilities\FileReadersContants.class
+com\teksystem\filereader\core\FileReaderFactory.class
+com\teksystem\filereader\core\PptFileReader.class
+com\teksystem\filereader\interfaces\FileReader.class
+com\teksystem\filereader\core\DocFileReader.class
+com\teksystem\filereaderutilities\FileReaderUtilities.class
+com\teksystem\filereader\core\XlsFileReader.class

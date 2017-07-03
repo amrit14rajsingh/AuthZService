@@ -1,0 +1,4 @@
+com\teksystem\filereader\core\AbstractFileReaderTest.class
+com\teksystem\common_utilities\AppTest.class
+com\teksystem\filereader\core\DocFileReaderTest.class
+com\teksystem\filereaderutilities\FileReaderUtilitiesTest.class
